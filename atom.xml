@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://firvinstudio.github.io</id>
     <title>Firvin Studio</title>
-    <updated>2021-05-02T05:07:53.435Z</updated>
+    <updated>2021-05-02T05:16:33.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://firvinstudio.github.io"/>
     <link rel="self" href="https://firvinstudio.github.io/atom.xml"/>
     <logo>https://firvinstudio.github.io/images/avatar.png</logo>
     <icon>https://firvinstudio.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Firvin Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[Noteocean现已支持播放24D,10D,9D,8D以及立体环绕声音乐]]></title>
+        <id>https://firvinstudio.github.io/post/noteocean-xian-yi-zhi-chi-bo-fang-24d10d9d8d-yi-ji-li-ti-huan-rao-sheng-yin-le/</id>
+        <link href="https://firvinstudio.github.io/post/noteocean-xian-yi-zhi-chi-bo-fang-24d10d9d8d-yi-ji-li-ti-huan-rao-sheng-yin-le/">
+        </link>
+        <updated>2021-05-02T05:09:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>是的，你没听错<br>
+这是在中国首个用PPT制作的能播放高保真，立体声，以及Hi-Fi的音乐软件<br>
+现在的开发进度：35%</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>是的，你没听错<br>
+这是在中国首个用PPT制作的能播放高保真，立体声，以及Hi-Fi的音乐软件<br>
+现在的开发进度：35%</p>
+<!-- more -->
+<p>如果你想加入开发者计划的话，请联系2682358682</p>
+<figure data-type="image" tabindex="1"><img src="https://firvinstudio.github.io/post-images/1619932524354.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://firvinstudio.github.io/post/hello-gridea/</id>
